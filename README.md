@@ -104,7 +104,7 @@ streamlit run app.py
 
 ## 🖥️ Demo Screenshot
 
-*(You can add Streamlit app screenshot here later)*
+
 
 ---
 
